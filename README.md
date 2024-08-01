@@ -114,5 +114,5 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
 <p>Similar to the view provided to customers in Europe and Africa, InDrive will provide Nepal riders in Malaysia with safety features such as a dedicated SOS button and a "Share my ride" option for real-time trip sharing. Malaysia's ride-hailing market is not limited to the country's main urban economy, the capital city, which sees high demand from both locals and visitors.</p>
 
 ## References
-1. Klopper, S. (2021). Techcrunch: startup and technology news website review. Journal of Business & Finance Librarianship, 26(3-4), 344-349.<br>2. Gillet, K. (2022, January 11). Bolt raises big (again) as it looks to expand its mobility empire. Sifted. https://sifted.eu/articles/bolt-raises-628m-superapp 
+1. Klopper, S. (2021). Techcrunch: startup and technology news website review. Journal of Business & Finance Librarianship, 26(3-4), 344-349. <br>2. Gillet, K. (2022, January 11). Bolt raises big (again) as it looks to expand its mobility empire. Sifted. https://sifted.eu/articles/bolt-raises-628m-superapp 
 
