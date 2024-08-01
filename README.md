@@ -17,7 +17,7 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
 
 # City Summary 
 
-
+```html```
 <div>
 <style>
     .dataframe thead tr:only-child th {
@@ -32,6 +32,7 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
         vertical-align: top;
     }
 </style>
+```
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -116,7 +117,9 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
 
 ## Notable Trends
 
-Urban locations have a naturally high population density, whereas rural areas have a low population density and suburban areas fall somewhere in the centre. According to the research, urban drivers face more competition than suburban and rural drivers, a lower price structure and hence a reduced profit margin. A crucial takeaway would be to identify settlements with a high demand for rides, and then supply that need, especially in select suburban locations.<br>The three pie charts depicting "% of Total Fares by City Type," "% of Total Rides by City Type," and "% of Total Drivers by City Type" definitely illustrate that rural areas have greater fare totals in relation to total rides and drivers than suburban and urban locations. While metropolitan areas had more drivers and more rides, the average fare was less, which could result in lower profit margins, despite accounting for 62.7% of revenue.
+- Urban locations have a naturally high population density, whereas rural areas have a low population density and suburban areas fall somewhere in the centre. According to the research, urban drivers face more competition than suburban and rural drivers, a lower price structure and hence a reduced profit margin.
+- A crucial takeaway would be to identify settlements with a high demand for rides, and then supply that need, especially in select suburban locations.<br>The three pie charts depicting "% of Total Fares by City Type," "% of Total Rides by City Type," and "% of Total Drivers by City Type" definitely illustrate that rural areas have greater fare totals in relation to total rides and drivers than suburban and urban locations.
+- While metropolitan areas had more drivers and more rides, the average fare was less, which could result in lower profit margins, despite accounting for 62.7% of revenue.
 
 
 
