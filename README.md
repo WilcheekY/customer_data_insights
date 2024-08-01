@@ -1,7 +1,3 @@
-p {
-  text-align: justify;
-}
-
 ## InDrive Ride Sharing
 The American-base mobility startup, founded in 2013, has become arguably Russia’s first superapp.
 It makes sense from the perspective of the customer for a business like InDrive to provide a range of services related to mobility. It's simple and intuitive for you because you have all the other data.
