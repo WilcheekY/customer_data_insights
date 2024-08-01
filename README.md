@@ -1,3 +1,6 @@
+p {
+  text-align: justify;
+}
 
 ## InDrive Ride Sharing
 The American-base mobility startup, founded in 2013, has become arguably Russia’s first superapp.
@@ -108,7 +111,6 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
 
 
 ## 🖥️ I've shared my insights about
-<hr style="border:2px solid gray">
 <p>Groceries are one of the most popular consumer purchasing categories, but don't expect great margins, and every percentage point counts. What we are calling for is an open market, with no restrictions on competition. In reality, no other platform can provide five items as we do: ride-hailing, scooters, car sharing, restaurant delivery, and grocery delivery.</p>
 
 <p>InDrive's entry into Malaysia is opportunistic because the startup can capitalise on an existing supply of drivers to launch its ride-hailing service. This launch can also be used to gain a better understanding of neighbouring countries on the ground. However, the startup does not intend to grow into larger areas.<br>InDrive, headquartered in Mountain View, is attracting existing ride-hailing drivers to its platform for at least the next six months. It further stated that customers would receive 15% reduced service prices than competitors on the market.</p>
@@ -116,6 +118,5 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
 <p>Similar to the view provided to customers in Europe and Africa, InDrive will provide Nepal riders in Malaysia with safety features such as a dedicated SOS button and a "Share my ride" option for real-time trip sharing. Malaysia's ride-hailing market is not limited to the country's main urban economy, the capital city, which sees high demand from both locals and visitors.</p>
 
 ## References
-<hr style="border:2px solid gray">
 1. Klopper, S. (2021). Techcrunch: startup and technology news website review. Journal of Business & Finance Librarianship, 26(3-4), 344-349.<br>2. Gillet, K. (2022, January 11). Bolt raises big (again) as it looks to expand its mobility empire. Sifted. https://sifted.eu/articles/bolt-raises-628m-superapp 
 
