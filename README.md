@@ -15,9 +15,7 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
 3. There is a relationship between the number of drivers and rides in the city.
 
 
-
-<hr style="border:2px solid gray">
-### City Summary 
+# City Summary 
 
 
 <div>
@@ -97,25 +95,25 @@ We took a sample dataset of InDrive rides in various cities, and attempted to vi
 </div>
 
 
-### Rides by City Type
+# Rides by City Type
 
 
 ![png](Pie_Totalrides_citytype.png)
 
 
-### Drivers by City Type
+# Drivers by City Type
 
 
 ![png](Pie_Totaldrivers_citytype.png)
 
 
-### Fare by City Type
+# Fare by City Type
 
 
 ![png](Pie_Totalfare_citytype.png)
 
 
-<hr style="border:2px solid gray">
+
 ## Notable Trends
 
 Urban locations have a naturally high population density, whereas rural areas have a low population density and suburban areas fall somewhere in the centre. According to the research, urban drivers face more competition than suburban and rural drivers, a lower price structure and hence a reduced profit margin. A crucial takeaway would be to identify settlements with a high demand for rides, and then supply that need, especially in select suburban locations.<br>The three pie charts depicting "% of Total Fares by City Type," "% of Total Rides by City Type," and "% of Total Drivers by City Type" definitely illustrate that rural areas have greater fare totals in relation to total rides and drivers than suburban and urban locations. While metropolitan areas had more drivers and more rides, the average fare was less, which could result in lower profit margins, despite accounting for 62.7% of revenue.
